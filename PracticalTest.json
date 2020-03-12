@@ -1,0 +1,64 @@
+{
+  "status": true,
+  "data": {
+    "title": "BRILLIANT CATCH",
+    "help_text": "Details of brilliant catches during the innings.",
+    "share_text": "Hey, check out brilliant catches by Nagrota Knights and Srinagar Warriors in their match.",
+    "inning": [
+      {
+        "title": "1st Innings - Srinagar Warriors Fielding",
+        "insights_data": [
+          {
+            "inning": 1,
+            "team_id": 400997,
+            "is_brilliant_catch": 1,
+            "player_id": 22,
+            "player_name": "Chirag Sudani",
+            "is_pro": 1,
+            "profile_photo": "https://images.cricheroes.in/user_profile/1565763266399_Uo3UyVHrF8qn.jpg",
+            "dap1_player_id": 1119,
+            "caught_by": "Nishant Joshi",
+            "bowler_player_id": 140947,
+            "region": "",
+            "bowler_name": "Smeet Chavda",
+            "last_at_text": "Out at",
+            "last_at_overs": "0.5",
+            "last_at_score": "3(3)",
+            "last_at_team_score": "14-1",
+            "run": 3,
+            "ball": 3,
+            "total_team_run": 14,
+            "wicket": 1
+          }
+        ]
+      },
+      {
+        "title": "2nd Innings - Nagrota Knights Fielding",
+        "insights_data": [
+          {
+            "inning": 2,
+            "team_id": 400998,
+            "is_brilliant_catch": 1,
+            "player_id": 1119,
+            "player_name": "Nishant Joshi",
+            "is_pro": 0,
+            "profile_photo": "https://images.cricheroes.in/user_profile/1478829053838_bNFqL8f8wShM.jpg",
+            "dap1_player_id": 55,
+            "caught_by": "Urvish Sheth",
+            "bowler_player_id": 22,
+            "region": "",
+            "bowler_name": "Chirag Sudani",
+            "last_at_text": "Out at",
+            "last_at_overs": "1.4",
+            "last_at_score": "13(5)",
+            "last_at_team_score": "32-1",
+            "run": 13,
+            "ball": 5,
+            "total_team_run": 32,
+            "wicket": 1
+          }
+        ]
+      }
+    ]
+  }
+}
